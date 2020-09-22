@@ -1,2 +1,2 @@
-# C-20
-This is not a game and it doesn't need improving :)
+# p5.play-boilerplate
+Boiler plate for p5.play
